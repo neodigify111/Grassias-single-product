@@ -672,6 +672,7 @@ button {
   width: 100%;
   left: 0%;
   top: 0;
+  z-index: 20px;
   position: fixed !important; }
 
 #grass-header.clone-active .grass-header-element:nth-child(2) {
